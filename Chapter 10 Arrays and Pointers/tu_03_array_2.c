@@ -34,7 +34,7 @@ int main(void)
     averageMyArray = getAverage2(lo_myArray,s);                                // method 1: para = int *array
     printf("The average of my array is about %.2f\n\n",averageMyArray);
 
-    averageMyArray = getAverage1(myArray,s);                                   // method 2: para = int array[] (method 3 ÂÔ)
+    averageMyArray = getAverage1(myArray,s);                                   // method 2: para = int array[] (method 3 Ã‚Ã”)
     printf("The average of my array is about %.2f\n\n",averageMyArray);
 
 
